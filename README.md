@@ -22,5 +22,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+## ⭐ Entre em contado comigo!
+[SkeThur#4836](https://discord.com/users/506299442924879876)
