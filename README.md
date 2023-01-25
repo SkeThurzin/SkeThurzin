@@ -1,10 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Arthur!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Olá, Meu nome é Arthur conhecido como SkeThur. Sou um Developer Iniciante.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+🔭 Nesse momento não estou trabalhando em um projeto, estudando primeiro.
 
 ----
 
