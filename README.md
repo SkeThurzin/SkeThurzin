@@ -19,5 +19,5 @@
 
 ---
 
-## ⭐ Entre em contado comigo!
+## ⭐ Entre em contato comigo!
 [SkeThur#4836](https://discord.com/users/506299442924879876)
