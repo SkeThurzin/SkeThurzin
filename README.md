@@ -1,8 +1,10 @@
-## 💜 Olá, meu nome é <strong>Arthur!</strong>
+## 🤍 Olá, meu nome é <strong>Arthur!</strong>
 
-> Olá, Meu nome é Arthur conhecido como SkeThur. Sou um Developer Iniciante.
+> Hello, my name is Arthur, better known as SkeThur.
 
-🔭 Nesse momento não estou trabalhando em um projeto, estudando primeiro.
+> 🔨 Working on the Mini Cloud.
+
+## 🍀 My Presence.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/506299442924879876?borderRadius=10px&idleMessage=Nenhuma%20atividade)](https://discord.com/users/506299442924879876)
 
