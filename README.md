@@ -4,6 +4,8 @@
 
 🔭 Nesse momento não estou trabalhando em um projeto, estudando primeiro.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/506299442924879876)
+
 ----
 
 ## 🚀 Aprendendo:
