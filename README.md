@@ -4,6 +4,8 @@
 
 > 🔨 Working on the Mini Cloud.
 
+> 💤 My Personal WebSite: 
+
 ## 🍀 My Discord Presence.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/506299442924879876?borderRadius=10px&idleMessage=Nenhuma%20atividade)](https://discord.com/users/506299442924879876)
